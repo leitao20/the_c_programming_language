@@ -1,0 +1,12 @@
+
+```text
+
+# Ignore compiled executables.
+
+*.exe
+*.out
+*.o
+
+#Ignore VS code configuration folders.
+
+.vscode/
